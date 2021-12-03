@@ -135,6 +135,38 @@ EDA is performed on the dataset, and it is found that there are six continuous a
 
 <sub>To predict the solution for a research problem various machine learning algorithms like Gaussian Naïve Bayes, Logistic Regression, Decision Tree, K Nearest Neighbors, Support Vector Machines, Random Forest, XGBoost, AdaBoost will be used in the research study. To evaluate the performance of each model performance metrics like accuracy, confusion matrix, precision, recall, F1-score, classification report and ROC are used. Each machine learning algorithm is explained briefly</sub>
 
+<b> Logistic Regression </b>
+  
+<sub> Logistic Regression is an algorithm that is best suited for dataset which includes a target variable with binary information and output obtained is in the binary format. For this study, each person in the dataset is labeled as 1 if income is >50k and 0 if income <=50k. All the other variables in the dataset are considered predictor variables and income variable is the binary or target variable. </sub>
+
+<b> Gaussian Naïve Bayes </b>
+
+<sub> Gaussian Naïve Bayes is a supervised machine learning algorithm and a type of naïve bayes algorithm which supports normal distribution and continuous data. The next model to predict a person’s income is naïve bayes. To achieve this, all the predictor variables and one target variable is used to predict an individual’s income. The performance of the model is evaluated using evaluation metrics link accuracy, precision, recall, ROC, confusion matrix and F1 -score. </sub>
+
+<b>Random Forest classifier </b>
+  
+<sub>The next model implemented after logistic regression and gaussian naïve bayes is random forest classifier. It is one such supervised learning algorithm can be utilized for classification and regression. This algorithm generates multiple decision trees for one dataset. The classifier provides high performance for large datasets and by merging multiple decision trees obtained, the classifier reduces the problem of overfitting (Ghimire et.al., 2011). For this research, the random forest classifier is applied on the dataset and the performance of the model is evaluated using evaluation metrics. </sub>
+
+<b> Decision Tree Classifier </b>
+ 
+<sub> Like Random Forest classifier, decision tree classifier is also suitable for large datasets and provides better performance. The output of the decision is based on the class labels and the training set. It can be used for both categorical and numerical variables. However, the output obtained can be difficult to interpret due to the various levels in multiple trees (Jijo and Abdulazeez, 2021). Decision Tres classifier is applied on the census dataset to predict an individual’s income. </sub>
+  
+<b>Support Vector Machine </b>
+
+<sub>This classifier is based on the hyperplanes. It generates a hyperplane and groups the data into classes based on the distance between the hyperplane and objects. A separation is said to be good if the distance is more between the nearest datapoint of a class (Topiwalla). For this research, the hyperplane will be separated based on the target variable. It creates two different hyperplanes for income >=50k and <50k. </sub>
+
+<b>XGBoost </b>
+  
+<sub> This algorithm is derived from gradient boosting which is robust and scalable and focusses on construction decision trees. It builds a model that generates a loss function that is used to reduce complexity of the length of decision trees.  All the independent variables and target variable are fed to the models to generate multiple decision trees as base classifiers and loss function. To implement the XGBoost scikit-learn package is used (Bentejac et.al., 2019). </sub>
+  
+<b> K- Nearest Neighbor </b>
+  
+<sub> KNN is an algorithm that depends on the Euclidean distance. It is nothing but calculating the distance from the already existing points. There are few manipulations performed on the dataset by converting the categorical variables into continuous variables. Since the KNN algorithm can be implemented on the numerical data. Therefore, for this algorithm, only few numerical variables like age, education num, capital gain, capital loss and income are used.</sub>
+  
+<b> AdaBoost </b>
+<sub>This is an algorithm that is used to boost a weak classifier which improves the performance of a classifier by little. Hence forth, improving the performance of a weak classifier. Ada is most frequently used boosting algorithm. It is very easy to implement when compared to that of SVM. This algorithm is used to predict the income range of an individual. However for this research, Ada Boosting is not used to improve the performance of the weaker algorithms but is implemented on the dataset to obtain the accuracy of a model. </sub>
+
+
 ## 8.Data Analysis and Result
 
 <b> Explanatory Data Analysis </b>

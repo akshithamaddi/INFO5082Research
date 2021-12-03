@@ -121,6 +121,11 @@ EDA is performed on the dataset, and it is found that there are six continuous a
 <b> Target Variable </b>
   
 <sub>Income: >50k and <=50k </sub>
+## 7. Research Design and Methodology
+
+<b> 7.1 Data Collection </b>
+  
+<sub> The data for our research is collected from the University of California Irvine (UCI) Machine Learning Repository and Kaggle which is extracted from 1994 census database. The data collected was merged together using pandas data frames to perform the further analysis. </sub>
  
 
   

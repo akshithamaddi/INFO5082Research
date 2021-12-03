@@ -104,32 +104,31 @@ EDA is performed on the dataset, and it is found that there are six continuous a
 <b> Predictor variables </b>
   
 <sub>1. age
+<sub>2. Work class : Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay and Never-worked.</sub>
   
-2. Work class : Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay and Never-worked
+<sub>3. fnlwgt: It describes the weights of the current population survey. This survey is carried out every month by the US Government.</sub>
   
-3. fnlwgt: It describes the weights of the current population survey. This survey is carried out every month by the US Government.
+<sub>4. education: Bachelors, Some-college, 11th, HS-grad, Prof-school, Assoc-acdm, Assoc-voc, 9th, 7th-8th, 12th, Masters, 1st-4th, 10th, Doctorate, 5th-6th and Preschool.</sub>
   
-4. education: Bachelors, Some-college, 11th, HS-grad, Prof-school, Assoc-acdm, Assoc-voc, 9th, 7th-8th, 12th, Masters, 1st-4th, 10th, Doctorate, 5th-6th and Preschool.
+<sub>5. education_num: Each category of education is assigned with a particular number.</sub>
   
-5. education_num: Each category of education is assigned with a particular number.
+<sub>6. marital_status: Married-civ-spouse, Divorced, Never-married, Separated, Widowed, Married-spouse-absent and Married-AF-spouse</sub>
   
-6. marital_status: Married-civ-spouse, Divorced, Never-married, Separated, Widowed, Married-spouse-absent and Married-AF-spouse
+<sub>7. occupation: Tech-support, Craft-repair, Other-service, Sales, Exec-managerial, Prof-specialty, Handlers-cleaners, Machine-op-inspct, Adm-clerical, Farming-fishing, Transport-moving, Priv-house-serv, Protective-serv and Armed-Forces.</sub>
   
-7. occupation: Tech-support, Craft-repair, Other-service, Sales, Exec-managerial, Prof-specialty, Handlers-cleaners, Machine-op-inspct, Adm-clerical, Farming-fishing, Transport-moving, Priv-house-serv, Protective-serv and Armed-Forces.
+<sub>8. relationship: Wife, Own-child, Husband, Not-in-family, Other-relative and Unmarried.</sub>
   
-8. relationship: Wife, Own-child, Husband, Not-in-family, Other-relative and Unmarried.
+<sub>9. race: White, Asian-Pac-Islander, Amer-Indian-Eskimo, Black and other.</sub>
   
-9. race: White, Asian-Pac-Islander, Amer-Indian-Eskimo, Black and other.
+<sub>10. sex: Female and Male.</sub>
   
-10. sex: Female and Male.
+<sub>11. capital_gain</sub>
   
-11. capital_gain
+<sub>12. capital_loss</sub>
   
-12. capital_loss
+<sub>13. hours_per_week</sub>
   
-13. hours_per_week
-  
-14. native_country: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, and  Holand-Netherlands. </sub>
+<sub>14. native_country: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, and  Holand-Netherlands. </sub>
   
 <b> Target Variable </b>
   

@@ -1,1 +1,1 @@
-# INFO5082Research
+# Analysis of Census Income data using Machine-learning analysis

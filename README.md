@@ -92,9 +92,10 @@ EDA is performed on the dataset, and it is found that there are six continuous a
   
 ##Data Collection
 <sub>The raw dataset used for the research are collected from University of California Irvine (UCI) machine learning repository and Kaggle with 48842 and 32561 instances respectively. There are 14 different attributes in the dataset which are merged to find the solution of the research problem. </sub>
+  
 <b>Source of the data</b>
-<sub> The dataset used for the analysis is a a mixture of two different datasets. it includes various attributes related to a person including the income per annum.Below are the links provided for the source of the data. </sub>
+<sub> The dataset used for the analysis is a a mixture of two different datasets. it includes various attributes related to a person including the income per annum.Below are the links provided for the source of the data.
 1. https://archive.ics.uci.edu/ml/datasets/adult
-2. https://www.kaggle.com/uciml/adult-census-income
+2. https://www.kaggle.com/uciml/adult-census-income </sub>
 
   

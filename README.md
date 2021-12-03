@@ -98,6 +98,13 @@ EDA is performed on the dataset, and it is found that there are six continuous a
 <sub> The dataset used for the analysis is a a mixture of two different datasets. it includes various attributes related to a person including the income per annum.Below are the links provided for the source of the data. </sub>
 1. https://archive.ics.uci.edu/ml/datasets/adult
 2. https://www.kaggle.com/uciml/adult-census-income 
+
+<b> Detailed description of the variables and their categories </b>
+
+<b> Predictor variables </b>
+
+<sub><pre>1. age 
+2. Work class</sub></pre>
  
 
   

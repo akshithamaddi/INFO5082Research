@@ -103,25 +103,37 @@ EDA is performed on the dataset, and it is found that there are six continuous a
   
 <b> Predictor variables </b>
   
-<sub>1. age 
+<sub>1. age
+  
 2. Work class : Private, Self-emp-not-inc, Self-emp-inc, Federal-gov, Local-gov, State-gov, Without-pay and Never-worked
+  
 3. fnlwgt: It describes the weights of the current population survey. This survey is carried out every month by the US Government.
-4. education: Bachelors, Some-college, 11th, HS-grad, Prof-school, Assoc-acdm, Assoc-voc, 9th, 7th-8th, 12th, Masters, 1st-4th, 10th, Doctorate, 5th-6th and Preschool
+  
+4. education: Bachelors, Some-college, 11th, HS-grad, Prof-school, Assoc-acdm, Assoc-voc, 9th, 7th-8th, 12th, Masters, 1st-4th, 10th, Doctorate, 5th-6th and Preschool.
+  
 5. education_num: Each category of education is assigned with a particular number.
+  
 6. marital_status: Married-civ-spouse, Divorced, Never-married, Separated, Widowed, Married-spouse-absent and Married-AF-spouse
-7. occupation: Tech-support, Craft-repair, Other-service, Sales, Exec-managerial, Prof-specialty, Handlers-cleaners, Machine-op-inspct, Adm-clerical, Farming-fishing, Transport-moving, Priv-house-serv, Protective-serv and Armed-Forces
-8. relationship: Wife, Own-child, Husband, Not-in-family, Other-relative and Unmarried
-9. race: White, Asian-Pac-Islander, Amer-Indian-Eskimo, Black and other
-10. sex: Female and Male
+  
+7. occupation: Tech-support, Craft-repair, Other-service, Sales, Exec-managerial, Prof-specialty, Handlers-cleaners, Machine-op-inspct, Adm-clerical, Farming-fishing, Transport-moving, Priv-house-serv, Protective-serv and Armed-Forces.
+  
+8. relationship: Wife, Own-child, Husband, Not-in-family, Other-relative and Unmarried.
+  
+9. race: White, Asian-Pac-Islander, Amer-Indian-Eskimo, Black and other.
+  
+10. sex: Female and Male.
+  
 11. capital_gain
+  
 12. capital_loss
+  
 13. hours_per_week
-14. native_country: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, and  Holand-Netherlands
+  
+14. native_country: United-States, Cambodia, England, Puerto-Rico, Canada, Germany, Outlying-US(Guam-USVI-etc), India, Japan, Greece, South, China, Cuba, Iran, Honduras, Philippines, Italy, Poland, Jamaica, Vietnam, Mexico, Portugal, Ireland, France, Dominican-Republic, Laos, Ecuador, Taiwan, Haiti, Columbia, Hungary, Guatemala, Nicaragua, Scotland, Thailand, Yugoslavia, El-Salvador, Trinadad&Tobago, Peru, Hong, and  Holand-Netherlands. </sub>
   
 <b> Target Variable </b>
   
-Income: >50k and <=50k
-</sub>
+<sub>Income: >50k and <=50k </sub>
  
 
   

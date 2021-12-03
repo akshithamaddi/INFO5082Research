@@ -123,9 +123,30 @@ EDA is performed on the dataset, and it is found that there are six continuous a
 <sub>Income: >50k and <=50k </sub>
 ## 7. Research Design and Methodology
 
-<b> 7.1 Data Collection </b>
+<b> 7.1. Data Collection </b>
   
 <sub> The data for our research is collected from the University of California Irvine (UCI) Machine Learning Repository and Kaggle which is extracted from 1994 census database. The data collected was merged together using pandas data frames to perform the further analysis. </sub>
- 
+
+<b> 7.2. Data Preprocessing
+
+<sub> Data Preprocessing is performed on the raw data to make the dataset efficient for further processing and analysis. This is the first phase in the data science project lifecycle which is used to obtain the final dataset for performing analysis. Data preprocessing include techniques like Data cleaning, Data Integration, Data Transformation and Data Reduction. These preprocessing techniques are used to improve the quality of data. For this study, the unwanted attributes will be removed from the dataset for obtaining better accuracy with the machine learning models and removal of missing data, null values and replacing null values with the most frequent value are applied on the dataset using various libraries like pandas and NumPy. After cleaning process, the dataset will be split into 80% training data and 20% testing data. </sub>
+  
+<b> 7.3. Machine Learning Models </b>
+
+<sub>To predict the solution for a research problem various machine learning algorithms like Gaussian Naïve Bayes, Logistic Regression, Decision Tree, K Nearest Neighbors, Support Vector Machines, Random Forest, XGBoost, AdaBoost will be used in the research study. To evaluate the performance of each model performance metrics like accuracy, confusion matrix, precision, recall, F1-score, classification report and ROC are used. Each machine learning algorithm is explained briefly</sub>
+
+## 8.Data Analysis and Result
+
+<b> Explanatory Data Analysis </b>
+  
+<sub> Explanatory Data Analysis is performed on different attributes to brief the main characteristics of the dataset and to visualize them. This is an important step after the data preprocessing and before applying the machine learning models. To accomplish this step, the following characteristics of the attributes will be considered: Age distribution, Relation ship between Age group and income, education distribution, relationship between education and income, distribution of different works, relationship between work sectors and income, distribution of different occupations, relationship between occupation and income, distribution of hours per week, relationship between income and hours.  The above-mentioned variables are the features that can affect a person’s salary. Hence these variables are selected for analysis purposes. </sub>
+  
+## 9. Data Visualizations and Results
+  
+<sub> To interpret the results of analysis, data visualization will be performed using box plots, bar charts, line charts, stacked bar charts, bubble charts etc. to understand the trend of features in the data and perform the required analysis on the dataset. To achieve this, python libraries like matplotlib, seaborn and tableau are used.I used tableau to visualize the following four hypothesis questions which citizens are likely to earn more, Will a greater education result in a higher salary, who earns more a man or a woman, which race has the best-paying jobs and which professions pay well, and how does higher education affect earnings. </sub>
+
+
+
+
 
   

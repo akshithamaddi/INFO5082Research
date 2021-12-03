@@ -164,6 +164,7 @@ EDA is performed on the dataset, and it is found that there are six continuous a
 <sub> KNN is an algorithm that depends on the Euclidean distance. It is nothing but calculating the distance from the already existing points. There are few manipulations performed on the dataset by converting the categorical variables into continuous variables. Since the KNN algorithm can be implemented on the numerical data. Therefore, for this algorithm, only few numerical variables like age, education num, capital gain, capital loss and income are used.</sub>
   
 <b> AdaBoost </b>
+  
 <sub>This is an algorithm that is used to boost a weak classifier which improves the performance of a classifier by little. Hence forth, improving the performance of a weak classifier. Ada is most frequently used boosting algorithm. It is very easy to implement when compared to that of SVM. This algorithm is used to predict the income range of an individual. However for this research, Ada Boosting is not used to improve the performance of the weaker algorithms but is implemented on the dataset to obtain the accuracy of a model. </sub>
 
 

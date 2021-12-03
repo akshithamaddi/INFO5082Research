@@ -54,7 +54,7 @@
   
 <sub> Out of all the above algorithms suggested in the paper, Naïve Bayesian is the best algorithm for the adult dataset. Zero R, Random Star and K star are subsequently used after Naïve Bayesian and fall in the same range. This algorithm is easy and efficient with high accuracy compared to all the other algorithms applied on the dataset.</sub>
   
-<b>3.4. Purpose of Study</b>
+<b>4.4. Purpose of Study</b>
   
 <sub> The purpose of the study is to analyze the earnings of a bank’s customers. To predict the incomes, the author used numerous regression algorithms like ordinary least squares regression, MARS, ANN, LS-SVM and CART are implemented on five different datasets. To evaluate the performance of the model, many techniques such as R2 curve, hit rate, precession, recall etc. are used in this paper. I intend to implement different regression algorithms on my dataset. This paper helped me understand about the various regression algorithms (Kibekbaev & Duman, 2015). </sub>
   
@@ -87,9 +87,14 @@ EDA is performed on the dataset, and it is found that there are six continuous a
 <b>4.5.3. Conclusion</b>
   
 <sub>To sum it all, the five machine learning algorithms like Gradient Boosting classifier, Gaussian Naïve Bayes, Support Vector Machine, Decision Tree and Random Forest are applied on the dataset to figure out which algorithm gives the best results to predict the accuracy in salary class. Gradient Boosting Classifier is the best classifier with highest ROC, high accuracy, and low misclassification rate. This study can be extended by using the more recent census data to predict the salary class for today’s population as the data used in this paper is quite old.</sub>
-## 5. Objetives of Study
+## 5. Objectives of Study
 <sub> There are few objectives that should be followed for successful completion of study. Firstly, to anticipate if a person’s salary is less that 50k or greater than 50k, data exploration and hypothesis is performed to understand the structures of population in dataset and this data is used to predict the solution to the research problem by applying machine learning models. Secondly, few hypothesis-like which citizens are likely to earn more, Will a greater education result in a higher salary, who earns more a man or a woman, which race has the best-paying jobs and which professions pay well, and how does higher education affect earnings. Lastly, the models are compared based on the few features that best serves as a resultant solution for the purpose of study. </sub>
+  
 ##Data Collection
 <sub>The raw dataset used for the research are collected from University of California Irvine (UCI) machine learning repository and Kaggle with 48842 and 32561 instances respectively. There are 14 different attributes in the dataset which are merged to find the solution of the research problem. </sub>
+<b>Source of the data</b>
+<sub> The dataset used for the analysis is a a mixture of two different datasets. it includes various attributes related to a person including the income per annum.Below are the links provided for the source of the data. </sub>
+1. https://archive.ics.uci.edu/ml/datasets/adult
+2. https://www.kaggle.com/uciml/adult-census-income
 
   

@@ -173,13 +173,13 @@ EDA is performed on the dataset, and it is found that there are six continuous a
 <sub>This section includes the results of the various machine learning models like KNN, logistic regression, SVM, XGboost, Adaboost, decision trees, random forest and gaussian naïve bayes. To compare the performance of these models, the performance metrics like confusion matrix, accuracy score, F1 score, MSE, recall, precision, and classification report. Finally, these models are compared and a cumulative plot showing the ROC curve for all the models is plotted. The below table shows all the metrics for each model. </sub>
 
 <p align="center">
-<img src="comparision of models.jpeg" height="400" width="600">
+<img src="images/comparision of models.jpeg" height="400" width="600">
 </p>
 
 <sub> We have applied several models on the dataset by selecting most essential features. These most essential features are obtained based on the explanatory data analysis. However, from the results, the best performed models are random forest and decision trees followed by XGboost model with an accuracy of 94.3, 94.0 and 84.8 respectively. </sub>
 
 <p align="center">
-<img src="ROC_Curve.png" height="400" width="600">
+<img src="images/ROC_Curve.png" height="400" width="600">
 </p>
 
 <sub> The ROC Curve for all the models is plotted by comparing the True positive rate vs false positive rate. From the above graph it shows that the area of ROC curve for Random Forest and decision tree is higher than the rest of the models. Therefore, it is clear that, both the random forest and decision tree are efficient to classify the true positive rate of a dataset. </sub>
@@ -193,54 +193,54 @@ EDA is performed on the dataset, and it is found that there are six continuous a
 <sub> To interpret the results of analysis, data visualization will be performed using box plots, bar charts, line charts, stacked bar charts, bubble charts etc. to understand the trend of features in the data and perform the required analysis on the dataset. To achieve this, tableau are used.I used tableau to visualize the following four hypothesis questions which citizens are likely to earn more, Will a greater education result in a higher salary, who earns more a man or a woman, which race has the best-paying jobs and which professions pay well, and how does higher education affect earnings. </sub>
 
 <p align="left">
-<img src="Age Distribution.png" height="400" width="600">
+<img src="images/Age Distribution.png" height="400" width="600">
 <p align="right">
-<img src="Age Vs Income.png" height="400" width="600">
+<img src="images/Age Vs Income.png" height="400" width="600">
 </p>
 
 <sub>The above two figures represents the distribution of age between different age groups. The first figure shows the income of people between the ages 17 to 90 years. It is observed that people between age groups of 23 to 47 work more because they are more entries for this age group on the graph. The second figure shows that difference between the two categories of income and various age groups. From the figure it shows that ages 17, 18,19, and 81 to 90 cannot have income greater than 50k. However, the age groups of 35 to 50 includes individuals who earn both >50k and <=50k. <sub>
 
 <p align="left">
-<img src="Education distribution.png" height="400" width="600">
+<img src="images/Education distribution.png" height="400" width="600">
 <p align="right">
-<img src="EducationVsIncome.png" height="200" width="600">
+<img src="images/EducationVsIncome.png" height="200" width="600">
 </p>
   
 <sub> The above figures illustrates the most recent degree of each individual. From the figure, most of the individuals have high school degree and very few individuals have doctorate degree. The second figure shows the relation between the education and income. It is clear that the highest degrees obtain better income. Degrees like masters and doctorate have individuals with income >50k and other degrees obtain income <=50k </sub>
   
 <p align="left">
-<img src="Workclassdistribution.png" height="400" width="600">
+<img src="images/Workclassdistribution.png" height="400" width="600">
 <p align="right">
-<img src="WorkclassdistributionVsIncome.png" height="400" width="600">
+<img src="images/WorkclassdistributionVsIncome.png" height="400" width="600">
 </p>
 <sub> The above figures illustrates the working sector of each individual. From the figure, most of the individuals work in a private sector and very few individuals work under federal government. The second figure shows the relation between the work class and income. It is clear that in every work class the income is <=50k. However, it is observed that self-employment always obtain income more than 50k. </sub>
 
 <p align="left">
-<img src="Occupation distribution.png" height="400" width="600">
+<img src="images/Occupation distribution.png" height="400" width="600">
 <p align="right">
-<img src="OccupationVSIncome.png" height="400" width="600">
+<img src="images/OccupationVSIncome.png" height="400" width="600">
 </p>
 
 <sub> Occupation is distributed uniformly between individuals. It is observed that most people working as executive managers, prof-specialty, and craft repair over armed forces. In the occupation distribution Vs Income graph, occupations like executive managers and prof-specialty have more number of jobs that are paid above 50,000 when compared to that of occupations like private house services, armed forces, tech support and transport moving. </sub>
 
 <p align="left">
-<img src="Hours per week distribution.png" height="400" width="600">
+<img src="images/Hours per week distribution.png" height="400" width="600">
 <p align="right">
-<img src="Hours per week Vs Income.png" height="400" width="600">
+<img src="images/Hours per week Vs Income.png" height="400" width="600">
 </p>
 
 <sub> Based the above figures, it is observed that majority of the people work for 40 hours on an average which is set by the government. However, from the second figure which portrays the relationship between the hours per week and income shows that people who tend to work more than 40 hours earn more than 50,000 dollars. </sub>
 
 <p align="left">
-<img src="Race Distribution.png" height="400" width="600">
+<img src="images/Race Distribution.png" height="400" width="600">
 <p align="right">
-<img src="RaceVSIncome.png" height="400" width="600">
+<img src="images/RaceVSIncome.png" height="400" width="600">
 </p>
 
 <sub> This feature can be useful to for our model predictions which shows that whites and Asians tend to earn more than 50,000 dollars. However, the dataset has more details of whites when compared to other races like black, eskimos etc. It can also be inferred that; the dataset includes information about blacks which says that the income earned by black race is less than 50,000. </sub>
 
 <p align="center">
-<img src="EducationIncomeandoccupation.png" height="400" width="600">
+<img src="images/EducationIncomeandoccupation.png" height="400" width="600">
 </p>
 
 <sub> The above graph shows the relationship between the income, occupation, and education. For the occupation like executive managers, Farming-fishing, Machine-op-inspect and other services pay high for the individuals with doctorate degree whereas occupations like Protective-serv, Transport-moving, and Prof-specialty are paid high with a bachelor’s degrees. In contrast to this, the occupation armed forces pay high to the individuals with a master’s degree. From the above graph it is clear that people with bachelors, masters and doctorate degrees. </sub>
@@ -264,11 +264,11 @@ EDA is performed on the dataset, and it is found that there are six continuous a
 <sub> Recall Recall is determined as the number of true positives by the sum of true positives and false negatives. The recall value obtained for both the models are 99.8 and 99.7% respectively. The higher the recall value, the more relevant results are obtained for the data which means that the results predicted on the dataset is correct and accurate.Below are the performance metrics results for two best algorithms random forest and decision trees. </sub>
 
 <p align="left">
-<img src="DecisionTreemetrics.png" alt="Decision Tree Performance Metrics" />
+<img src="images/DecisionTreemetrics.png" alt="Decision Tree Performance Metrics" />
 <p><center>Decision Tree Performance Metrics</center></p>
 </p>
 <p align="left">
-<img src="RandomForestmetrics.png" alt="Random Forest Performance Metrics" />
+<img src="images/RandomForestmetrics.png" alt="Random Forest Performance Metrics" />
 <p><center>Random Forest Performance Metrics</center></p>
 </p>
 

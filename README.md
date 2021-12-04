@@ -189,9 +189,38 @@ EDA is performed on the dataset, and it is found that there are six continuous a
 </p>
   
 <sub> The above figures illustrates the most recent degree of each individual. From the figure, most of the individuals have high school degree and very few individuals have doctorate degree. The second figure shows the relation between the education and income. It is clear that the highest degrees obtain better income. Degrees like masters and doctorate have individuals with income >50k and other degrees obtain income <=50k </sub>
-
-
   
+<p align="left">
+<img src="Workclassdistribution.png" height="400" width="600">
+<p align="right">
+<img src="WorkclassdistributionVsIncome.png" height="400" width="600">
+</p>
+<sub> The above figures illustrates the working sector of each individual. From the figure, most of the individuals work in a private sector and very few individuals work under federal government. The second figure shows the relation between the work class and income. It is clear that in every work class the income is <=50k. However, it is observed that self-employment always obtain income more than 50k. </sub>
+
+<p align="left">
+<img src="Occupation distribution.png" height="400" width="600">
+<p align="right">
+<img src="OccupationVSIncome.png" height="400" width="600">
+</p>
+
+<sub> Occupation is distributed uniformly between individuals. It is observed that most people working as executive managers, prof-specialty, and craft repair over armed forces. In the occupation distribution Vs Income graph, occupations like executive managers and prof-specialty have more number of jobs that are paid above 50,000 when compared to that of occupations like private house services, armed forces, tech support and transport moving. </sub>
+
+<p align="left">
+<img src="Hours per week distribution.png" height="400" width="600">
+<p align="right">
+<img src="Hours per week Vs Income.png" height="400" width="600">
+</p>
+
+<sub> Based the above figures, it is observed that majority of the people work for 40 hours on an average which is set by the government. However, from the second figure which portrays the relationship between the hours per week and income shows that people who tend to work more than 40 hours earn more than 50,000 dollars. </sub>
+
+<p align="left">
+<img src="Race Distribution.png" height="400" width="600">
+<p align="right">
+<img src="RaceVSIncome.png" height="400" width="600">
+</p>
+
+<sub> This feature can be useful to for our model predictions which shows that whites and Asians tend to earn more than 50,000 dollars. However, the dataset has more details of whites when compared to other races like black, eskimos etc. It can also be inferred that; the dataset includes information about blacks which says that the income earned by black race is less than 50,000. </sub>
+
 ## 9. Data Visualizations and Results
   
 <sub> To interpret the results of analysis, data visualization will be performed using box plots, bar charts, line charts, stacked bar charts, bubble charts etc. to understand the trend of features in the data and perform the required analysis on the dataset. To achieve this, python libraries like matplotlib, seaborn and tableau are used.I used tableau to visualize the following four hypothesis questions which citizens are likely to earn more, Will a greater education result in a higher salary, who earns more a man or a woman, which race has the best-paying jobs and which professions pay well, and how does higher education affect earnings. </sub>

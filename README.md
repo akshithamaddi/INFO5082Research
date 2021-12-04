@@ -174,6 +174,8 @@ EDA is performed on the dataset, and it is found that there are six continuous a
   
 <sub> Explanatory Data Analysis is performed on different attributes to brief the main characteristics of the dataset and to visualize them. This is an important step after the data preprocessing and before applying the machine learning models. To accomplish this step, the following characteristics of the attributes will be considered: Age distribution, Relationship between Age group and income, education distribution, relationship between education and income, distribution of different works, relationship between work sectors and income, distribution of different occupations, relationship between occupation and income, distribution of hours per week, relationship between income and hours.  The above-mentioned variables are the features that can affect a person’s salary. Hence these variables are selected for analysis purposes to simplify the model. <sub>
 
+<sub> To interpret the results of analysis, data visualization will be performed using box plots, bar charts, line charts, stacked bar charts, bubble charts etc. to understand the trend of features in the data and perform the required analysis on the dataset. To achieve this, tableau are used.I used tableau to visualize the following four hypothesis questions which citizens are likely to earn more, Will a greater education result in a higher salary, who earns more a man or a woman, which race has the best-paying jobs and which professions pay well, and how does higher education affect earnings. </sub>
+
 <p align="left">
 <img src="Age Distribution.png" height="400" width="600">
 <p align="right">
@@ -224,10 +226,11 @@ EDA is performed on the dataset, and it is found that there are six continuous a
 <p align="center">
 <img src="EducationIncomeandoccupation.png" height="400" width="600">
 </p>
+
+<sub> The above graph shows the relationship between the income, occupation, and education. For the occupation like executive managers, Farming-fishing, Machine-op-inspect and other services pay high for the individuals with doctorate degree whereas occupations like Protective-serv, Transport-moving, and Prof-specialty are paid high with a bachelor’s degrees. In contrast to this, the occupation armed forces pay high to the individuals with a master’s degree. From the above graph it is clear that people with bachelors, masters and doctorate degrees. </sub>
  
 ## 9. Data Visualizations and Results
-  
-<sub> To interpret the results of analysis, data visualization will be performed using box plots, bar charts, line charts, stacked bar charts, bubble charts etc. to understand the trend of features in the data and perform the required analysis on the dataset. To achieve this, python libraries like matplotlib, seaborn and tableau are used.I used tableau to visualize the following four hypothesis questions which citizens are likely to earn more, Will a greater education result in a higher salary, who earns more a man or a woman, which race has the best-paying jobs and which professions pay well, and how does higher education affect earnings. </sub>
+
 
 
 

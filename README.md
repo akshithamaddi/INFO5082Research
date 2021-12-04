@@ -182,6 +182,15 @@ EDA is performed on the dataset, and it is found that there are six continuous a
 
 <sub>The above two figures represents the distribution of age between different age groups. The first figure shows the income of people between the ages 17 to 90 years. It is observed that people between age groups of 23 to 47 work more because they are more entries for this age group on the graph. The second figure shows that difference between the two categories of income and various age groups. From the figure it shows that ages 17, 18,19, and 81 to 90 cannot have income greater than 50k. However, the age groups of 35 to 50 includes individuals who earn both >50k and <=50k. <sub>
 
+<p align="left">
+<img src="Education distribution.png" height="400" width="600">
+<p align="right">
+<img src="EducationVsIncome.png" height="400" width="600">
+</p>
+  
+<sub> The above figures illustrates the most recent degree of each individual. From the figure, most of the individuals have high school degree and very few individuals have doctorate degree. The second figure shows the relation between the education and income. It is clear that the highest degrees obtain better income. Degrees like masters and doctorate have individuals with income >50k and other degrees obtain income <=50k </sub>
+
+
   
 ## 9. Data Visualizations and Results
   

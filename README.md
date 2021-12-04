@@ -173,13 +173,13 @@ EDA is performed on the dataset, and it is found that there are six continuous a
 <sub>This section includes the results of the various machine learning models like KNN, logistic regression, SVM, XGboost, Adaboost, decision trees, random forest and gaussian naïve bayes. To compare the performance of these models, the performance metrics like confusion matrix, accuracy score, F1 score, MSE, recall, precision, and classification report. Finally, these models are compared and a cumulative plot showing the ROC curve for all the models is plotted. The below table shows all the metrics for each model. </sub>
 
 <p align="center">
-<img src="Age Distribution1.png" height="400" width="600">
+<img src="comparision of models.jpeg" height="400" width="600">
 </p>
 
 <sub> We have applied several models on the dataset by selecting most essential features. These most essential features are obtained based on the explanatory data analysis. However, from the results, the best performed models are random forest and decision trees followed by XGboost model with an accuracy of 94.3, 94.0 and 84.8 respectively. </sub>
 
 <p align="center">
-<img src="Age Distribution2.png" height="400" width="600">
+<img src="ROC_Curve.png" height="400" width="600">
 </p>
 
 <sub> The ROC Curve for all the models is plotted by comparing the True positive rate vs false positive rate. From the above graph it shows that the area of ROC curve for Random Forest and decision tree is higher than the rest of the models. Therefore, it is clear that, both the random forest and decision tree are efficient to classify the true positive rate of a dataset. </sub>

@@ -174,8 +174,8 @@ EDA is performed on the dataset, and it is found that there are six continuous a
   
 <sub> Explanatory Data Analysis is performed on different attributes to brief the main characteristics of the dataset and to visualize them. This is an important step after the data preprocessing and before applying the machine learning models. To accomplish this step, the following characteristics of the attributes will be considered: Age distribution, Relationship between Age group and income, education distribution, relationship between education and income, distribution of different works, relationship between work sectors and income, distribution of different occupations, relationship between occupation and income, distribution of hours per week, relationship between income and hours.  The above-mentioned variables are the features that can affect a person’s salary. Hence these variables are selected for analysis purposes to simplify the model. <sub>
 
-<p align="center">
-<img src="assets/logo.jpg" height="400" width="400">
+<p align="left">
+<img src="Age Distribution.png" height="400" width="400">
 </p>
  
  

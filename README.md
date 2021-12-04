@@ -245,7 +245,7 @@ EDA is performed on the dataset, and it is found that there are six continuous a
 
 <sub> The above graph shows the relationship between the income, occupation, and education. For the occupation like executive managers, Farming-fishing, Machine-op-inspect and other services pay high for the individuals with doctorate degree whereas occupations like Protective-serv, Transport-moving, and Prof-specialty are paid high with a bachelor’s degrees. In contrast to this, the occupation armed forces pay high to the individuals with a master’s degree. From the above graph it is clear that people with bachelors, masters and doctorate degrees. </sub>
 
-##10. Explain and Usage of Results 
+## 10. Explain and Usage of Results 
 
 <sub> The main aim of the project is to predict whether an individual’s income is > 50k or <=50k. To predict this, various machine learning algorithms are used, and performance is compared by using different performance metrics, EDA is performed, and hypothesis testing is applied on the dataset. </sub>
   

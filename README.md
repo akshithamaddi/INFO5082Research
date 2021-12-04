@@ -272,9 +272,36 @@ EDA is performed on the dataset, and it is found that there are six continuous a
 <p><center>Random Forest Performance Metrics</center></p>
 </p>
 
-## Other Security Issues
+## 11. Other Security Issues
 
 <sub> There can be few security and privacy issues when compared to the collection of data. The data chosen for this study is obtained from an open-source repository. However, to further extend this study by collecting data from the US Census, there can be many privacy and security issues like beaching the secured or personal information of an individual. To collect the data from the US Government without violating the policies, certain secured steps should be followed and taken care during the entire research phase. </sub>
+  
+## 12. Dataset
+  
+<sub> The raw dataset used for the research are collected from UCI machine learning repository and Kaggle with 48842 and 32561 instances respectively. There are 14 different attributes in the dataset which will be merged to find the solution of the research problem. Below is data dictionary for the dataset. The described two datasets are sufficient to support my research study. These datasets contain all the features required to answer the research question. The dataset consists of raw data that needs to be cleaned and elimination of null values should be performed. During the research study, further data will add from different sources to obtain more accurate results for the problem statement. </sub>
+  
+## 13. Conclusion
+
+<sub> The topic Census Income data using Machine-learning analysis is carried out to anticipate if an individual’s annual income in the United States fits into the income segments of greater than 50k Dollars or less than or equal to 50k Dollars and identify the features that are used to determine a person’s salary. Based on the results obtained from the machine learning models and EAD, it is observed that Random forest algorithm obtained the best accuracy of 98.3% showing that the income of a person can be predicted to be >50k for individuals. The factors that contribute to an individual's income are age, education, occupation, work class and hours per week. The solutions obtained for above questions can help governments not only make the poor substantial but also identify the predominant features essential to improve one’s income. The models developed in the paper are usefulness in the interest of the data science community because the models developed can be used by HR department in an organization to predict the current and future employees’ salary, retain and recruit the highly skilled employees. The best model is selected by comparing the performance metrics for each model.
+
+## References
+
+<sub> 1.Alina. (2004). Income prediction via support vector machine. Proceedings of the 2004 International Conference on Machine Learning and Applications. pp.143-149 </sub>
+  
+<sub> 2. Victor. R.C. (2016). Using a Supervised Learning Model: Two-Class Boosted Decision Tree Algorithm for Income Prediction. PRC Repository. http://hdl.handle.net/20.500.12475/557 </sub>
+  
+<sub> 3.Deepajothi.S., Selvarajan.S. (2012). A Comparative Study of Classification Techniques on Adult Data Set. International Journal of Engineering Research & Technology. 1(8). </sub>
+  
+<sub> 4. Kibekbaev. A., Duman.E. (2015). Benchmarking Regression Algorithms for Income Prediction Modeling. 2015 International Conference on Computational Science and Computational Intelligence. </sub>
+<sub> 5. Bramesh. S.M, Puttaswamy. B.S. (2019). Comparative study of Machine Learning Algorithms on Census Income Data Set. Journal of Engineering Research and Application. 9(8). pp 78-81 </sub>
+  
+<sub> 6. Galiano. V.F., Ghimire. B., Rogan. J., Olmo. C., and Sanchez. J.P. (2011).  An assessment of the effectiveness of a random forest classier for land-cover classification. ISPRS Journal of Photogrammetry and Remote Sensing. pp. 93-104 </sub>
+  
+<sub> 7. Jijo. T.B. and Abdulazeez. A.M. (2021). Classification Based on Decision Tree Algorithm for Machine Learning. Journal of Applied Science and Technology Trends. 2(1). pp.20-28 </sub>
+  
+<sub> 8. Topiwalla. M. Machine Learning on UCI Adult data Set Using Various Classifier Algorithms and Scaling Up the Accuracy Using Extreme Gradient Boosting. University of SP Jain School of Global Management. </sub>
+  
+<sub> 9. Bentejac. C., Csorgo. A., and Munoz. M.G. (2019). A Comparative Analysis of XGBoost. </sub>
 
 
 

@@ -221,6 +221,10 @@ EDA is performed on the dataset, and it is found that there are six continuous a
 
 <sub> This feature can be useful to for our model predictions which shows that whites and Asians tend to earn more than 50,000 dollars. However, the dataset has more details of whites when compared to other races like black, eskimos etc. It can also be inferred that; the dataset includes information about blacks which says that the income earned by black race is less than 50,000. </sub>
 
+<p align="center">
+<img src="EducationIncomeandoccupation.png" height="400" width="600">
+</p>
+ 
 ## 9. Data Visualizations and Results
   
 <sub> To interpret the results of analysis, data visualization will be performed using box plots, bar charts, line charts, stacked bar charts, bubble charts etc. to understand the trend of features in the data and perform the required analysis on the dataset. To achieve this, python libraries like matplotlib, seaborn and tableau are used.I used tableau to visualize the following four hypothesis questions which citizens are likely to earn more, Will a greater education result in a higher salary, who earns more a man or a woman, which race has the best-paying jobs and which professions pay well, and how does higher education affect earnings. </sub>

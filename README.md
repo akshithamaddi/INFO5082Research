@@ -172,7 +172,15 @@ EDA is performed on the dataset, and it is found that there are six continuous a
 
 <b> Explanatory Data Analysis </b>
   
-<sub> Explanatory Data Analysis is performed on different attributes to brief the main characteristics of the dataset and to visualize them. This is an important step after the data preprocessing and before applying the machine learning models. To accomplish this step, the following characteristics of the attributes will be considered: Age distribution, Relation ship between Age group and income, education distribution, relationship between education and income, distribution of different works, relationship between work sectors and income, distribution of different occupations, relationship between occupation and income, distribution of hours per week, relationship between income and hours.  The above-mentioned variables are the features that can affect a person’s salary. Hence these variables are selected for analysis purposes. </sub>
+<sub> Explanatory Data Analysis is performed on different attributes to brief the main characteristics of the dataset and to visualize them. This is an important step after the data preprocessing and before applying the machine learning models. To accomplish this step, the following characteristics of the attributes will be considered: Age distribution, Relationship between Age group and income, education distribution, relationship between education and income, distribution of different works, relationship between work sectors and income, distribution of different occupations, relationship between occupation and income, distribution of hours per week, relationship between income and hours.  The above-mentioned variables are the features that can affect a person’s salary. Hence these variables are selected for analysis purposes to simplify the model. <sub>
+
+<p align="center">
+<img src="assets/logo.jpg" height="400" width="400">
+</p>
+ 
+ 
+The above two figures represents the distribution of age between different age groups. The first figure shows the income of people between the ages 17 to 90 years. It is observed that people between age groups of 23 to 47 work more because they are more entries for this age group on the graph. The second figure shows that difference between the two categories of income and various age groups. From the figure it shows that ages 17, 18,19, and 81 to 90 cannot have income greater than 50k. However, the age groups of 35 to 50 includes individuals who earn both >50k and <=50k. <sub>
+
   
 ## 9. Data Visualizations and Results
   

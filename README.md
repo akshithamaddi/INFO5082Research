@@ -203,7 +203,7 @@ EDA is performed on the dataset, and it is found that there are six continuous a
 <p align="left">
 <img src="images/Educationdistribution.png" height="400" width="600">
 <p align="right">
-<img src="images/EducationVsIncome.png" height="200" width="600">
+<img src="images/EducationVsIncome.png" height="500" width="600">
 </p>
   
 <sub> The above figures illustrates the most recent degree of each individual. From the figure, most of the individuals have high school degree and very few individuals have doctorate degree. The second figure shows the relation between the education and income. It is clear that the highest degrees obtain better income. Degrees like masters and doctorate have individuals with income >50k and other degrees obtain income <=50k </sub>

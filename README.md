@@ -269,7 +269,7 @@ EDA is performed on the dataset, and it is found that there are six continuous a
 </p>
 <p align="right">
 <img src="RandomForestmetrics.png" alt="Random Forest Performance Metrics" />
-<p><center>Random Forest Performance Metrics</center></p>
+<p>Random Forest Performance Metrics</p>
 </p>
 
 

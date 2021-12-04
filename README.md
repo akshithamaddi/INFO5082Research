@@ -179,9 +179,8 @@ EDA is performed on the dataset, and it is found that there are six continuous a
 <p align="right">
 <img src="Age Vs Income.png" height="400" width="600">
 </p>
- 
- 
-The above two figures represents the distribution of age between different age groups. The first figure shows the income of people between the ages 17 to 90 years. It is observed that people between age groups of 23 to 47 work more because they are more entries for this age group on the graph. The second figure shows that difference between the two categories of income and various age groups. From the figure it shows that ages 17, 18,19, and 81 to 90 cannot have income greater than 50k. However, the age groups of 35 to 50 includes individuals who earn both >50k and <=50k. <sub>
+
+<sub>The above two figures represents the distribution of age between different age groups. The first figure shows the income of people between the ages 17 to 90 years. It is observed that people between age groups of 23 to 47 work more because they are more entries for this age group on the graph. The second figure shows that difference between the two categories of income and various age groups. From the figure it shows that ages 17, 18,19, and 81 to 90 cannot have income greater than 50k. However, the age groups of 35 to 50 includes individuals who earn both >50k and <=50k. <sub>
 
   
 ## 9. Data Visualizations and Results

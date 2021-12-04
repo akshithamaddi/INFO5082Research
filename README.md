@@ -264,12 +264,13 @@ EDA is performed on the dataset, and it is found that there are six continuous a
 <sub> Recall Recall is determined as the number of true positives by the sum of true positives and false negatives. The recall value obtained for both the models are 99.8 and 99.7% respectively. The higher the recall value, the more relevant results are obtained for the data which means that the results predicted on the dataset is correct and accurate.Below are the performance metrics results for two best algorithms random forest and decision trees. </sub>
 
 <p align="left">
-<img src="DecisionTreemetrics.png" alt="Decision Tree Performance Metrics" height="400" width="600">
-<p align="right">
-<img src="RandomForestmetrics.png" alt="Random Forest Performance Metrics" height="400" width="600">
-</p>
 <img src="DecisionTreemetrics.png" alt="Decision Tree Performance Metrics" />
-    <p><center>Decision Tree Performance Metrics</center></p>
+<p><center>Decision Tree Performance Metrics</center></p>
+</p>
+<p align="right">
+<img src="RandomForestmetrics.png" alt="Random Forest Performance Metrics" />
+<p><center>Random Forest Performance Metrics</center></p>
+</p>
 
 
 

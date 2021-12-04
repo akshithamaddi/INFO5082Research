@@ -267,9 +267,9 @@ EDA is performed on the dataset, and it is found that there are six continuous a
 <img src="DecisionTreemetrics.png" alt="Decision Tree Performance Metrics" />
 <p><center>Decision Tree Performance Metrics</center></p>
 </p>
-<p align="right">
+<p align="left">
 <img src="RandomForestmetrics.png" alt="Random Forest Performance Metrics" />
-<p>Random Forest Performance Metrics</p>
+<p><center>Random Forest Performance Metrics</center></p>
 </p>
 
 

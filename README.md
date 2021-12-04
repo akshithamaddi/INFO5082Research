@@ -170,6 +170,22 @@ EDA is performed on the dataset, and it is found that there are six continuous a
 
 ## 8.Data Analysis and Result
 
+<sub>This section includes the results of the various machine learning models like KNN, logistic regression, SVM, XGboost, Adaboost, decision trees, random forest and gaussian naïve bayes. To compare the performance of these models, the performance metrics like confusion matrix, accuracy score, F1 score, MSE, recall, precision, and classification report. Finally, these models are compared and a cumulative plot showing the ROC curve for all the models is plotted. The below table shows all the metrics for each model. </sub>
+
+<p align="center">
+<img src="Age Distribution1.png" height="400" width="600">
+</p>
+
+<sub> We have applied several models on the dataset by selecting most essential features. These most essential features are obtained based on the explanatory data analysis. However, from the results, the best performed models are random forest and decision trees followed by XGboost model with an accuracy of 94.3, 94.0 and 84.8 respectively. </sub>
+
+<p align="center">
+<img src="Age Distribution2.png" height="400" width="600">
+</p>
+
+<sub> The ROC Curve for all the models is plotted by comparing the True positive rate vs false positive rate. From the above graph it shows that the area of ROC curve for Random Forest and decision tree is higher than the rest of the models. Therefore, it is clear that, both the random forest and decision tree are efficient to classify the true positive rate of a dataset. </sub>
+ 
+## 9. Data Visualizations and Results
+
 <b> Explanatory Data Analysis </b>
   
 <sub> Explanatory Data Analysis is performed on different attributes to brief the main characteristics of the dataset and to visualize them. This is an important step after the data preprocessing and before applying the machine learning models. To accomplish this step, the following characteristics of the attributes will be considered: Age distribution, Relationship between Age group and income, education distribution, relationship between education and income, distribution of different works, relationship between work sectors and income, distribution of different occupations, relationship between occupation and income, distribution of hours per week, relationship between income and hours.  The above-mentioned variables are the features that can affect a person’s salary. Hence these variables are selected for analysis purposes to simplify the model. <sub>
@@ -228,8 +244,6 @@ EDA is performed on the dataset, and it is found that there are six continuous a
 </p>
 
 <sub> The above graph shows the relationship between the income, occupation, and education. For the occupation like executive managers, Farming-fishing, Machine-op-inspect and other services pay high for the individuals with doctorate degree whereas occupations like Protective-serv, Transport-moving, and Prof-specialty are paid high with a bachelor’s degrees. In contrast to this, the occupation armed forces pay high to the individuals with a master’s degree. From the above graph it is clear that people with bachelors, masters and doctorate degrees. </sub>
- 
-## 9. Data Visualizations and Results
 
 
 

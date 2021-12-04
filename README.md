@@ -272,7 +272,9 @@ EDA is performed on the dataset, and it is found that there are six continuous a
 <p><center>Random Forest Performance Metrics</center></p>
 </p>
 
+## Other Security Issues
 
+<sub> There can be few security and privacy issues when compared to the collection of data. The data chosen for this study is obtained from an open-source repository. However, to further extend this study by collecting data from the US Census, there can be many privacy and security issues like beaching the secured or personal information of an individual. To collect the data from the US Government without violating the policies, certain secured steps should be followed and taken care during the entire research phase. </sub>
 
 
 

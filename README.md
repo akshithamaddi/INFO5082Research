@@ -245,8 +245,29 @@ EDA is performed on the dataset, and it is found that there are six continuous a
 
 <sub> The above graph shows the relationship between the income, occupation, and education. For the occupation like executive managers, Farming-fishing, Machine-op-inspect and other services pay high for the individuals with doctorate degree whereas occupations like Protective-serv, Transport-moving, and Prof-specialty are paid high with a bachelor’s degrees. In contrast to this, the occupation armed forces pay high to the individuals with a master’s degree. From the above graph it is clear that people with bachelors, masters and doctorate degrees. </sub>
 
+##10. Explain and Usage of Results 
 
+<sub> The main aim of the project is to predict whether an individual’s income is > 50k or <=50k. To predict this, various machine learning algorithms are used, and performance is compared by using different performance metrics, EDA is performed, and hypothesis testing is applied on the dataset. </sub>
+  
+<b>Accuracy</b>
+  
+<sub>Accuracy can be calculated using number of correct prediction by total number of predictions. The accuracy for random forest and decision trees are obtained as 98.37 and 98.02 which means that the predictions are 98% correct. Therefore, from the classification report it can be predicted that the income of an individual can be > 50k. </sub>
+  
+<b>F1-Score</b>
+  
+<sub> F1 score is calculated using average of precision and recall. This uses both false positive and false negative values. The F1 score obtained for both the models are 98.4 and 98.0 respectively. The F1 score obtained is greater, then the model performance is better. </sub>
+  
+<b>Precision</b>
+  
+<sub> Precision is determined as number of true positives by the sum of true positives and false positives. The precision obtained for both the models 97.0 and 96.4 respectively. The higher the precision rate, the lower the false positive rate. Based on the precision score obtained, it means that the prediction of income for an individual based on certain features is almost accurate.</sub>
+  
+<sub> Recall Recall is determined as the number of true positives by the sum of true positives and false negatives. The recall value obtained for both the models are 99.8 and 99.7% respectively. The higher the recall value, the more relevant results are obtained for the data which means that the results predicted on the dataset is correct and accurate.Below are the performance metrics results for two best algorithms random forest and decision trees. </sub>
 
+<p align="left">
+<img src="DecisionTreemetrics.png",alt="Decision Tree Performance Metrics", height="400" width="600">
+<p align="right">
+<img src="RandomForestmetrics.png", alt="Random Forest Performance Metrics", height="400" width="600">
+</p>
 
 
 
